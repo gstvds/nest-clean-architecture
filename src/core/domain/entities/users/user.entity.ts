@@ -1,4 +1,4 @@
-import { Entity } from 'src/core/base/entity';
+import { Entity } from '../../../../core/base/entity';
 
 export class UserEntity extends Entity {
   public name: string;
